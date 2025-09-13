@@ -1,0 +1,5 @@
+{
+  "name": "SyncWatch: Real-Time Video Party",
+  "description": "An application for creating or joining virtual rooms to watch synchronized video content with friends, featuring real-time chat, reactions, and polls for an interactive, shared viewing experience.",
+  "requestFramePermissions": []
+}
